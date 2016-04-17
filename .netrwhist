@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/sungmincho'
+let g:netrw_dirhist_2='sflab'
+let g:netrw_dirhist_3='sflab/simplberry'
+let g:netrw_dirhist_4='sflab/simplberry/ocaml_refact'
+let g:netrw_dirhist_5='sflab/simplberry'
+let g:netrw_dirhist_6='sflab/simplberry/ocaml_refact'
+let g:netrw_dirhist_7='/Users/sungmincho/sflab/simplberry/ocaml_refact'
+let g:netrw_dirhist_8='/Users/sungmincho/sflab/simplberry'
+let g:netrw_dirhist_9='/Users/sungmincho/sflab/simplberry/ocaml_refact'
